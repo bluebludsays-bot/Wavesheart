@@ -452,7 +452,7 @@ export const botConfig = {
     verification: true,
     reactionRoles: true,
     joinToCreate: true,
-
+    join: true,
     // Utility/quality-of-life modules.
     voice: true,
     search: true,

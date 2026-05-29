@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "Drifting Waves⋆🌊｡˚꩜",
         // Activity type number (0 = Playing).
         type: 0, 
       },
@@ -89,7 +89,7 @@ export const botConfig = {
     colors: {
       // Main brand colors.
       primary: "#336699", 
-      secondary: "#2F3136", 
+      secondary: "2373d6", 
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287", 
@@ -255,7 +255,7 @@ export const botConfig = {
 
     // Allowed winner count range.
     minimumWinners: 1,
-    maximumWinners: 10,
+    maximumWinners: 5,
 
     // Allowed giveaway duration range in milliseconds.
     // 300000 = 5 minutes.
